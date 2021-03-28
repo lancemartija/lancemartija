@@ -1,4 +1,4 @@
-![My Post](https://user-images.githubusercontent.com/81515700/112753169-11a40780-9009-11eb-9759-1e835a85cb48.png)
+![My Post](https://user-images.githubusercontent.com/81515700/112753365-ea9a0580-9009-11eb-9cd6-25bdd8d6d208.png)
 
 <!--
 **lancemartija/lancemartija** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
