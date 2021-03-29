@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MarketGo! Online Marketplace for Fresh Goods and Other Products**
 
-- 🌱 I’m currently learning **JavaScript, React, PHP, C++, C#, Java, Python**
+- 🌱 I’m currently learning **JavaScript/React, PHP, C++, C#, Java, Python**
 
 - 📫 How to reach me **jacobmartija03@gmail.com**
 
