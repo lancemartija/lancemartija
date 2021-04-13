@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Lance Martija!</h1>
 <h3 align="center">Computer Science student in De La Salle Lipa.</h3>
 
-- 🔭 I’m currently working on **MarketGo! Online Marketplace for Fresh Goods and Other Products**
-
 - 🌱 I’m currently learning **JavaScript/React, PHP, C++, C#, Java, Python**
 
 <h3 align="center">Languages and Tools</h3>
