@@ -1,11 +1,36 @@
 ![My Post](https://user-images.githubusercontent.com/81515700/112753365-ea9a0580-9009-11eb-9cd6-25bdd8d6d208.png)
 
-<h1 align="center">Hi 👋, I'm Lance Martija!</h1>
-<h3 align="center">Aspiring Full Stack Developer.</h3>
+## Hello world, I'm Lance. 👋
+I'm a third year Computer Science student in De La Salle Lipa. I've been coding for 5 years and still have a lot to learn about programming.
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+I'm working on becoming a full-stack developer, but I'm currently focused on front-end development.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemartija&show_icons=true&theme=tokyonight)
+## About Me
+
+**Some things I'm up to**
+
+ - Learning UI/UX through [Frontend Mentor](https://www.frontendmentor.io/solutions)
+ - Learning about Backend Development
+ - Making web applications using JavaScript
+
+**Things I want to learn more about**
+
+ - Game Design and Development
+ - Python
+ - Web Application using MongoDB or any database frameworks
+ - ReactJS and TypeScript
+
+## Skills
+**Languages and Tools**
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Frameworks**
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+## Stats
+![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemartija&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancemartija&theme=tokyonight)
+
+
