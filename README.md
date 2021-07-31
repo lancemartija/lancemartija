@@ -17,7 +17,7 @@ I'm working on becoming a full-stack developer, but I'm currently focused on fro
 
  - Game Design and Development
  - Python
- - Web Application using MongoDB or any database frameworks
+ - Developing Web Application using MongoDB or any database frameworks
  - ReactJS and TypeScript
 
 ## Skills
