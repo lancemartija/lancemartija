@@ -5,8 +5,6 @@ I'm a third year Computer Science student in De La Salle Lipa. I've been coding 
 
 I'm working on becoming a full-stack developer, but I'm currently focused on front-end development.
 
-## About Me
-
 ### Some things I'm up to
 
  - Learning UI/UX through [Frontend Mentor](https://www.frontendmentor.io/solutions)
