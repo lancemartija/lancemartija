@@ -3,29 +3,23 @@
 ## Hello world, I'm Lance. 👋
 I'm a third year Computer Science student in De La Salle Lipa. I've been coding for 5 years and still have a lot to learn about programming.
 
-I'm working on becoming a full-stack developer, but I'm currently focused on front-end development.
-
 ### Some things I'm up to
 
- - Learning UI/UX through [Frontend Mentor](https://www.frontendmentor.io/solutions)
- - Learning about Backend Development
- - Making web applications using JavaScript
+ - Game Design and Development using Unity
+ - Front-end Web Development through [Frontend Mentor](https://www.frontendmentor.io/home)
 
 ### Things I want to learn more about
 
- - Game Design and Development
- - Python
- - Developing Web Application using MongoDB or any database frameworks
- - ReactJS
+ - Back-end Web Development
 
 ## Skills
 ### Languages and Tools
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Frameworks
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ## Stats
 ![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemartija&show_icons=true&theme=tokyonight)
 
