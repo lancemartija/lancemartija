@@ -1,7 +1,7 @@
 ![My Post](https://user-images.githubusercontent.com/81515700/112753365-ea9a0580-9009-11eb-9cd6-25bdd8d6d208.png)
 
 ## Hello world, I'm Lance. 👋
-I'm a third year Computer Science student in De La Salle Lipa. I've been coding for 5 years and still have a lot to learn about programming.
+I'm a fourth year Computer Science student in De La Salle Lipa. I've been coding for 6 years and still have a lot to learn about programming.
 
 ### Some things I'm up to
 
