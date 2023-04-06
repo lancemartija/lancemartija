@@ -5,7 +5,7 @@ I'm a fourth year Computer Science student in De La Salle Lipa. I'm a Web Develo
 
 ### Some things I'm up to
 
- - Software Engineer Intern @ FourPoint.Zero, Inc.
+ - Software Engineer Intern @ [FourPoint.Zero, Inc.](https://www.fourptzero.com/)
  - Front-end Web Development through [Frontend Mentor](https://www.frontendmentor.io/home)
 
 ### Things I want to learn more about
