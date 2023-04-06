@@ -1,7 +1,7 @@
 ![My Post](https://user-images.githubusercontent.com/81515700/112753365-ea9a0580-9009-11eb-9cd6-25bdd8d6d208.png)
 
 ## Hello world, I'm Lance. 👋
-I'm a fourth year Computer Science student in De La Salle Lipa. I'm a Web Developer specializing in Front-End Development, UI/UX Designer, Software Engineer, & Game Designer/Developer.
+I'm a fourth year Computer Science student in De La Salle Lipa. I'm a Web Developer specializing in Front-End Development, UI/UX Designer, Software Engineer, and a Game Designer/Developer.
 
 ### Some things I'm up to
 
