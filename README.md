@@ -1,17 +1,15 @@
 ![My Post](https://user-images.githubusercontent.com/81515700/112753365-ea9a0580-9009-11eb-9cd6-25bdd8d6d208.png)
 
 ## Hello world, I'm Lance. 👋
-I'm a fourth year Computer Science student in De La Salle Lipa. I'm a Software Engineer, Web Developer specializing in Front-End Development, UI/UX Designer, and a Game Designer/Developer.
+I'm a Software Engineer, Web Developer specializing in Front-End Development, UI/UX Designer, and a Game Designer/Developer.
 
 ### Some things I'm up to
 
- - Software Engineer Intern @ [FourPoint.Zero, Inc.](https://www.fourptzero.com/)
- - Front-end Web Development through [Frontend Mentor](https://www.frontendmentor.io/home)
+ - Accenture Technology Academy @ [Accenture, Inc.](https://www.accenture.com/ph-en)
 
 ### Things I want to learn more about
 
- - Mobile App Development using React Native
- - Web Development using ReactJS + TypeScript
+ - Web Development using AngularJS + TypeScript
 
 ## Skills
 ### Languages and Tools
