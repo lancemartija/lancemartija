@@ -3,10 +3,6 @@
 ## Hello world, I'm Lance. 👋
 I'm a Software Developer, Mobile/Web Developer specializing in Front-End Development, and a Game Designer/Developer.
 
-### Some things I'm up to
-
- - Accenture Technology Academy @ [Accenture, Inc.](https://www.accenture.com/ph-en)
-
 ### Things I want to learn more about
 
  - Web Development using Angular/React.js + TypeScript
